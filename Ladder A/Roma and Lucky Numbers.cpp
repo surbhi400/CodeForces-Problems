@@ -11,7 +11,7 @@ The first line contains two integers n, k (1 ≤ n, k ≤ 100). The se
 The numbers in the lines are separated by single spaces.
 
 Output
-In a single line print a single integer — the answer to the problem.
+In a single line print a single integer — the answer to the problem. 
 
 Examples
 input
