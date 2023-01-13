@@ -29,7 +29,7 @@ memory limit per test256 megabytes
 inputstandard input
 outputstandard output */
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#include <bits/stdc++.h>
+#include <bits/stdc++.h>  
 using namespace std;
 int main()
 {
