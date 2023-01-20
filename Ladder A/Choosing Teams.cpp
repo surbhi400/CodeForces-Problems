@@ -30,7 +30,7 @@ outputCopy
 2
 Note
 In the first sample only one team could be made: the first, the fourth and the fifth participants.
-
+ 
 In the second sample no teams could be created.
 
 In the third sample two teams could be created. Any partition into two teams fits.
