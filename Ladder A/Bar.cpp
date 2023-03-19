@@ -9,7 +9,7 @@ Input
 The first line contains an integer n (1 ≤ n ≤ 100) which is the number of the bar's clients. Then follow n lines, each describing one visitor. A line either contains
 his age (an integer from 0 to 1000) or his drink (a string of capital Latin letters from 1 to 100 in length). It is guaranteed that the input data does not contain 
 spaces and other unnecessary separators.
-
+ 
 Only the drinks from the list given above should be considered alcohol.
 
 Output
