@@ -8,7 +8,7 @@ int main(){
         l/=k;
         importance+=1;
     }
-    if(importance >=0 && l==1){
+    if(importance >=0 && l==1){ 
         cout<<"YES" <<endl<<importance<<endl;
     }
     else{
