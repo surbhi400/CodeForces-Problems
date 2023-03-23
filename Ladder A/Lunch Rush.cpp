@@ -12,7 +12,7 @@ The first line contains two space-separated integers — n (1 ≤ n ≤ 
 given them to lunch, correspondingly. Each of the next n lines contains two space-separated integers — fi (1 ≤ fi ≤ 109) and ti (1 ≤ ti ≤ 109) — the characteristics
 of the i-th restaurant.
 
-Output
+Output 
 In a single line print a single integer — the maximum joy value that the Rabbits will get from the lunch.
 
 Examples
